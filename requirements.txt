@@ -1,0 +1,9 @@
+Plan:
+Problems to solve:
+produce word cloud
+find lyrics
+
+Required Functionality:
+Web Scraping
+word cloud
+
